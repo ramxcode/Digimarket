@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Nova Portfolio Website",
+    "category": "Template Website",
+    "price": 149000,
+    "image": "/images/nova-portfolio.svg",
+    "description": "Template portfolio minimalis untuk menampilkan karya, pengalaman, dan profil profesional.",
+    "fileFormat": "ZIP",
+    "featured": true,
+    "longDescription": "Nova Portfolio Website dirancang untuk membuat halaman portfolio pribadi dengan tampilan yang bersih dan mudah dibaca. Template ini cocok untuk memperkenalkan diri, menampilkan proyek, serta menyusun informasi pengalaman dan kontak dalam satu website. Struktur halaman dibuat agar mudah disesuaikan dengan kebutuhan mahasiswa, developer, maupun desainer."
+  },
+  {
+    "id": 2,
+    "name": "Orbit Dashboard UI Kit",
+    "category": "UI Kit",
+    "price": 189000,
+    "image": "/images/orbit-dashboard.svg",
+    "description": "Koleksi komponen dashboard untuk mempercepat desain aplikasi dan analisis data.",
+    "fileFormat": "FIG",
+    "featured": true,
+    "longDescription": "Orbit Dashboard UI Kit menyediakan rancangan antarmuka dashboard dengan komposisi panel, kartu informasi, tabel, dan navigasi yang konsisten. Koleksi desain ini dapat dijadikan titik awal ketika merancang dashboard administrasi atau analisis data. Komponen dan layout disusun untuk membantu proses eksplorasi tampilan aplikasi."
+  },
+  {
+    "id": 3,
+    "name": "UX Research Essentials",
+    "category": "E-book",
+    "price": 79000,
+    "image": "/images/ux-research.svg",
+    "description": "Panduan praktis riset pengguna, wawancara, dan penyusunan insight produk.",
+    "fileFormat": "PDF",
+    "featured": true,
+    "longDescription": "UX Research Essentials membahas langkah dasar riset pengguna, mulai dari menyusun tujuan penelitian hingga mengolah temuan menjadi insight. Materinya mencakup pengenalan wawancara pengguna, observasi, dan cara merangkum kebutuhan pengguna. E-book ini sesuai untuk pembelajaran awal desain pengalaman pengguna."
+  },
+  {
+    "id": 4,
+    "name": "Pixel Perfect Icon Pack",
+    "category": "Icon Pack",
+    "price": 59000,
+    "image": "/images/pixel-icons.svg",
+    "description": "Ratusan ikon modern dengan gaya konsisten untuk website dan aplikasi.",
+    "fileFormat": "ZIP",
+    "featured": true,
+    "longDescription": "Pixel Perfect Icon Pack berisi koleksi ikon digital dengan gaya visual yang seragam. Ikon dapat menjadi elemen pendukung dalam desain website, aplikasi, maupun presentasi digital. Paket ini ditujukan bagi pembuat antarmuka yang membutuhkan pilihan ikon praktis dengan karakter desain yang konsisten."
+  },
+  {
+    "id": 5,
+    "name": "Creative Pitch Deck",
+    "category": "Template Presentasi",
+    "price": 99000,
+    "image": "/images/creative-pitch.svg",
+    "description": "Template presentasi untuk pitching ide bisnis dengan layout yang rapi.",
+    "fileFormat": "PPTX",
+    "featured": true,
+    "longDescription": "Creative Pitch Deck merupakan template presentasi yang membantu menyusun alur penyampaian ide atau rencana bisnis. Tampilannya menekankan judul yang kuat, ruang konten yang teratur, dan komposisi visual yang mudah diikuti. Cocok sebagai dasar presentasi proyek kelas, proposal kreatif, atau pitching konsep."
+  },
+  {
+    "id": 6,
+    "name": "Minimalist CV Pro",
+    "category": "Template CV",
+    "price": 49000,
+    "image": "/images/minimalist-cv.svg",
+    "description": "Template CV bersih yang mudah disesuaikan untuk lamaran kerja dan magang.",
+    "fileFormat": "DOCX",
+    "featured": true,
+    "longDescription": "Minimalist CV Pro mengutamakan tata letak curriculum vitae yang bersih dengan informasi utama mudah ditemukan. Struktur dokumennya dirancang untuk menampilkan profil, pendidikan, pengalaman, dan keterampilan secara tertata. Template ini dapat disesuaikan untuk kebutuhan lamaran magang maupun pekerjaan."
+  },
+  {
+    "id": 7,
+    "name": "Studio Agency Landing Page",
+    "category": "Template Website",
+    "price": 129000,
+    "image": "/images/studio-agency.svg",
+    "description": "Halaman promosi agensi kreatif dengan tata letak editorial modern.",
+    "fileFormat": "ZIP",
+    "featured": true,
+    "longDescription": "Studio Agency Landing Page menghadirkan konsep halaman depan untuk agensi atau studio kreatif. Tata letaknya memberi ruang bagi pengenalan layanan, portofolio pekerjaan, dan informasi kontak. Desain editorial yang sederhana dapat dijadikan dasar untuk mempresentasikan identitas merek secara profesional."
+  },
+  {
+    "id": 8,
+    "name": "Abstract Shapes Collection",
+    "category": "Ilustrasi Digital",
+    "price": 89000,
+    "image": "/images/abstract-shapes.svg",
+    "description": "Kumpulan ilustrasi abstrak untuk poster, presentasi, dan konten kreatif.",
+    "fileFormat": "PNG",
+    "featured": true,
+    "longDescription": "Abstract Shapes Collection menampilkan kumpulan bentuk dan komposisi ilustrasi abstrak untuk kebutuhan visual digital. Elemen ilustrasi dapat digunakan sebagai bahan pendukung desain poster, slide presentasi, atau konten kreatif. Koleksi ini cocok bagi pengguna yang ingin menambah aksen grafis pada karya mereka."
+  },
+  {
+    "id": 9,
+    "name": "Fintech Mobile UI Kit",
+    "category": "UI Kit",
+    "price": 159000,
+    "image": "/images/fintech-mobile.svg",
+    "description": "Rancangan antarmuka aplikasi keuangan mobile dengan komponen siap edit.",
+    "fileFormat": "FIG",
+    "featured": false,
+    "longDescription": "Fintech Mobile UI Kit menawarkan rancangan tampilan aplikasi keuangan untuk layar ponsel. Contoh antarmukanya berfokus pada penyajian saldo, aktivitas transaksi, dan navigasi yang mudah dipahami. UI kit ini dapat membantu mengeksplorasi struktur dan gaya desain aplikasi finansial."
+  },
+  {
+    "id": 10,
+    "name": "Frontend Interview Notes",
+    "category": "E-book",
+    "price": 69000,
+    "image": "/images/frontend-notes.svg",
+    "description": "Ringkasan konsep HTML, CSS, dan JavaScript untuk persiapan wawancara.",
+    "fileFormat": "PDF",
+    "featured": false,
+    "longDescription": "Frontend Interview Notes merangkum konsep dasar HTML, CSS, dan JavaScript dalam format catatan belajar. Pembahasannya diarahkan pada topik yang sering muncul ketika meninjau kembali dasar pengembangan frontend. Materi dapat digunakan untuk latihan mandiri atau persiapan diskusi teknis."
+  },
+  {
+    "id": 11,
+    "name": "Business Proposal Slides",
+    "category": "Template Presentasi",
+    "price": 109000,
+    "image": "/images/business-proposal.svg",
+    "description": "Slide proposal bisnis dengan diagram, tabel, dan tata letak profesional.",
+    "fileFormat": "PPTX",
+    "featured": false,
+    "longDescription": "Business Proposal Slides menyediakan tata letak presentasi untuk menjelaskan ide dan rencana bisnis secara runtut. Template ini mencakup gaya visual bagi judul, poin utama, diagram, dan ringkasan informasi. Pilihan yang praktis untuk membuat presentasi proposal yang terorganisasi."
+  },
+  {
+    "id": 12,
+    "name": "Mono Line Icon Collection",
+    "category": "Icon Pack",
+    "price": 45000,
+    "image": "/images/mono-line-icons.svg",
+    "description": "Set ikon garis sederhana dan fleksibel untuk antarmuka produk digital.",
+    "fileFormat": "SVG",
+    "featured": false,
+    "longDescription": "Mono Line Icon Collection berisi ikon bergaya garis sederhana yang dapat digunakan pada berbagai antarmuka digital. Tampilan setiap ikon dibuat konsisten agar mudah dipadukan dengan desain website maupun aplikasi. Koleksi ini sesuai bagi pengguna yang menyukai elemen visual minimalis."
+  }
+]
